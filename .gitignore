@@ -1,0 +1,15 @@
+# Visual Studio Code
+.vscode/
+
+# Git
+.git/
+
+# Docker
+Docker Desktop.exe
+
+# Operating System
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
